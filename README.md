@@ -1,5 +1,5 @@
 # Slick-Carousel
-> A quiz app created in React.
+> React Slick-Carousel left-click and right-click fix.
 
 ## Table of Contents
 * [General info](#general-info)
@@ -8,7 +8,7 @@
 * [Status](#status)
 
 ## General info
-A quiz app created to deepen my knowledge in React.
+This project contains two fixed problems that keep occurring in the forums. One of them was that whenever the user drags the items, the carousel fires instantly a left-click, and the other one was that whenever the user wanted to right click on an item which had an anchor tag, it would have been taken immediatly to the respective page as if the user would have left-clicked on that element.
 	
 ## Technologies
 Project is created with:
